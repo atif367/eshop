@@ -1,0 +1,13 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "Simple online shopping and order management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node selenium.test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0"
+  }
+}
